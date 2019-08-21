@@ -45,13 +45,13 @@ end
 school = School.new("Bayside High School")
 school.roster
 school.add_student("Zach Morris", 9)
-school.add_student("Moshe Zeus", 9)
-school.add_student("Onkelos Octavius", 9)
+school.add_student("Homer Simpson", 9)
+school.add_student("Jeff Baird", 9)
 school.roster
-school.add_student("Sugar Zaza", 5)
+school.add_student("Avi Flombaum", 5)
 school.roster
-school.add_student("Theo Madus", 5)
-school.add_student("Abbah Zabbah", 2)
+school.add_student("Bart Simpson", 5)
+school.add_student("Blake Johnson", 2)
 school.roster
 school.grade(9)
 school.sort
